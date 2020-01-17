@@ -5,7 +5,7 @@ Donate link: http://www.vanderwijk.com/wordpress/support/
 Tags: widget, sidebar, recent post, recent posts, excerpt, recent, post
 Requires at least: 2.9.2
 Tested up to: 5.3
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,7 +40,7 @@ All WordPress installs come with a default widget for showing recent posts. The 
 
 == Changelog ==
 
-= 1.1.2 =
+= 1.1.3 =
 New version for admin purposes
 
 = 1.1.1 =
