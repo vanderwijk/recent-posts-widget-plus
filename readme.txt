@@ -1,11 +1,11 @@
 === Recent Posts Widget Plus ===
 Contributors: vanderwijk
-Author URI: http://vanderwijk.nl/
-Donate link: http://www.vanderwijk.com/wordpress/support/
+Author URI: https://vanderwijk.nl/
+Donate link: https://www.paypal.me/vanderwijk
 Tags: widget, sidebar, recent post, recent posts, excerpt, recent, post
 Requires at least: 2.9.2
-Tested up to: 5.3
-Stable tag: 1.1.3
+Tested up to: 5.4
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,8 +40,11 @@ All WordPress installs come with a default widget for showing recent posts. The 
 
 == Changelog ==
 
+= 1.1.4 =
+Shortcodes are now also stripped from the excerpts.
+
 = 1.1.3 =
-New version for admin purposes
+New version for admin purposes.
 
 = 1.1.1 =
 Changed method for creating the widget in preparation of PHP7 support.
