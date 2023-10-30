@@ -3,12 +3,12 @@
 Plugin Name: Recent Posts Widget Plus
 Plugin URI: http://vanderwijk.com
 Description: A plugin that adds a widget that lists your most recent posts with excerpts. The number of posts and the character limit of the excerpts are configurable.
-Version: 1.2.0
+Version: 1.2.1
 Author: Johan van der Wijk
 Author URI: https://vanderwijk.nl
 License: GPL2
 
-Release notes: WordPress 6.2 compatibility tested
+Release notes: WordPress 6.4 compatibility tested
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
